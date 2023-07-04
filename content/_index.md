@@ -1,14 +1,14 @@
 ---
-title: 🪴 Janell Sihay's Garden 🌿
+title: 🤿 Janell Sihay's Coral Reef 🪸
 enableToc: false
 ---
 
-Welcome to my digital garden! 
+Welcome to my digital ~~garden~~ coral reef!
 
-# Garden plots
-Projects/topics I am currently growing...
+# Coral communities
+Projects/topics that I'm currently growing
 
-1. [My master's thesis](notes/My%20master's%20thesis.md) - the main project that I've been working on for the past three years. This is a requirement to obtain my Master of Science in Marine Science degree.
-2. Better thinking - my effort to think clearer and better
-3. Creating zines - 
-4. 
+1. [My master's thesis](notes/masters-thesis.md) - a marine research project I'm working on to complete my master's degree in Marine Science
+2. [Better thinking](notes/better-thinking.md) - my effort to think clearer and better
+3. [Creating zines](notes/zines.md) - a space dedicated for my fascination with zines 
+
