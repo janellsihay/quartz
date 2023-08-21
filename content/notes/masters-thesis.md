@@ -2,8 +2,6 @@
 
 >[!help] Research Question
 >
-> Satellite-derived observations of [chlorophyll-*a*](notes/chl.md) (Chl) reveal enhancement patterns west of Camiguin Island in Bohol Sea. The distribution of Chl in the ocean surface is strongly linked with physical ocean processes as these affect the distribution of light and nutrients, the main factors in primary production. Based on the visual pattern, this enhancement is often associated with [island wakes](notes/island-wakes.md), a physical phenomenon where and incoming flow is modified by a bluff body - in this case an ocean current interacting with the island. 
+> Satellite-derived observations of [chlorophyll-*a*](notes/chl.md) (Chl) reveal enhancement patterns west of Camiguin Island in Bohol Sea. The distribution of Chl in the ocean surface is strongly linked with physical ocean processes as these affect the distribution of light and nutrients, the main factors in primary production. The question now is, what physical ocean processes are related to the enhancement observed? Based on the spatial pattern, this Chl distribution is often associated with [island wakes](notes/island-wakes.md), an ocean process where an incoming flow is modified by a bluff body [(Caldeira, 2019)](notes/2019-caldeira) - in this case an ocean current or wind interacting with the island. Could this be a case of an enhancement due to island wakes? To investigate, we made use of satellite ocean data and performed a series of ocean data analysis to elucidate spatial and temporal patterns. We also performed correlations among ocean data variables sea surface heights, sea surface winds, and sea surface temperature to find relationships that could explain our observation. 
 
 **Keywords**: physical oceanography, satellite ocean data, chlorophyll-a, ocean data analysis, Bohol Sea
-
-Main references:
