@@ -25,5 +25,3 @@ page_title:
 links:
   - link_name: janellsihay.com
     link: https://janellsihay.com
-favicon:
-  - { rel: "shortcut icon", href: ".../icons8-ocean-wave-16.png", type: "image/png" }
