@@ -1,0 +1,1 @@
+[How to make a zine – The Creative Independent](https://thecreativeindependent.com/guides/how-to-make-a-zine/)

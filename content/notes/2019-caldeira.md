@@ -1,5 +1,8 @@
 
-
+3 types of wakes
+1. Atmospheric wakes
+2. Oceanic wakes
+3. Atmospheric-induced wakes
 
 
 ---

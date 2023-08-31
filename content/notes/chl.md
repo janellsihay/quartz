@@ -1,1 +1,1 @@
-Chlorophyll-a 
+Chlorophyll-*a* is a photosynthetic pigment found in phytoplankton.
